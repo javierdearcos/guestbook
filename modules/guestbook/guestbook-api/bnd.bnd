@@ -1,0 +1,6 @@
+Bundle-Name: guestbook-api
+Bundle-SymbolicName: guestbook.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	guestbook.dto.v1_0,\
+	guestbook.resource.v1_0

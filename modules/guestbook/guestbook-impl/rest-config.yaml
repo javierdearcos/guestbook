@@ -1,0 +1,9 @@
+apiDir: "../guestbook-api/src/main/java"
+apiPackagePath: "guestbook"
+application:
+    baseURI: "/guestbook"
+    className: "GuestbookApplication"
+    name: "Guestbook"
+author: "javierdearcos"
+clientDir: "../guestbook-client/src/main/java"
+testDir: "../guestbook-test/src/main/java"
