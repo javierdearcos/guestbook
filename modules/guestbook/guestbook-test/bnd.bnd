@@ -1,4 +1,3 @@
 Bundle-Name: guestbook-test
 Bundle-SymbolicName: guestbook.test
 Bundle-Version: 1.0.0
--includeresource: guestbook.client.jar=guestbook.client-*.jar;lib:=true
